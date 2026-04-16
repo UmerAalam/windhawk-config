@@ -14,7 +14,12 @@ This repository contains my **personal Windhawk setup** — including:
 
 Instead of manually setting everything up, you can **restore my config in 1 click** 😎
 
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/0aad33eb-e82a-46d0-95fd-d0d928aa483f" />
 
+<img width="1920" height="1080" alt="FileExplorer" src="https://github.com/user-attachments/assets/6939f724-560b-4ada-8569-c44d92822a69" />
+
+
+Wallpaper Link : https://4kwallpapers.com/technology/hello-mosaic-25567.html
 
 ## 🧠 About Windhawk
 
