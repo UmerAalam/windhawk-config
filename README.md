@@ -1,4 +1,4 @@
-# ⚙️ Windhawk Config by Umer
+# ⚙️ Windhawk Config
 
 A ready-to-use **custom configuration for Windhawk** that transforms your Windows experience with optimized mods, tweaks, and UI improvements 🚀
 
