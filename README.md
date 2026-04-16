@@ -1,14 +1,3 @@
-Got it — you want a **proper GitHub README for *your config repo*** that clearly explains:
-
-* what your config is
-* how to install **Windhawk**
-* how to use **backup utility**
-* and how to restore **your config**
-
-Here’s a clean, *real-world ready* README you can paste directly 👇
-
----
-
 # ⚙️ Windhawk Config by Umer
 
 A ready-to-use **custom configuration for Windhawk** that transforms your Windows experience with optimized mods, tweaks, and UI improvements 🚀
